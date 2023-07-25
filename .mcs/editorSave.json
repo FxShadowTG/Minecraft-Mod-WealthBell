@@ -1,0 +1,24 @@
+{
+    "Addon": {
+        "EnchantSetting": {
+            "amplifier": 1
+        },
+        "PackResourceSortData": {
+            "4_eqtya:bell": {
+                "createTime": 1685722760.3142097,
+                "modifyTime": 1685722760.3142097
+            },
+            "8_eqtya:bell": {
+                "createTime": 1685722767.0736623,
+                "modifyTime": 1685722833.5205195
+            }
+        },
+        "PlayerEffectSetting": {
+            "amplifier": 1,
+            "duration": 10
+        },
+        "PresetInstanceTreeData": [
+
+        ]
+    }
+}

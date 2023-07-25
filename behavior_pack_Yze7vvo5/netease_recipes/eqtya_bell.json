@@ -1,0 +1,35 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "eqtya:bell"
+        },
+        "key": {
+            "D": {
+                "data": 0,
+                "item": "minecraft:gold_ingot"
+            },
+            "E": {
+                "data": 0,
+                "item": "minecraft:cobblestone_wall"
+            },
+            "G": {
+                "data": 0,
+                "item": "minecraft:stick"
+            }
+        },
+        "pattern": [
+            "G G",
+            "EDE",
+            "G G"
+        ],
+        "result": {
+            "count": 1,
+            "data": 0,
+            "item": "minecraft:bell"
+        },
+        "tags": [
+            "crafting_table"
+        ]
+    }
+}
